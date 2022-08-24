@@ -20,9 +20,9 @@ Minha paixão por tecnologia está em sonhar com ideias e fazer torná-las em re
 <img align="right" alt="GIF" src="https://github.com/AlexsandroSantosSilva/Alexsandro-Santos/blob/main/code.gif?raw=true" width="450" height="320" />
 
 - 💼 Freelancer com intuito em experiência, aguardo seu, [ email ](mailto:alexjesantos@icloud.com) :)
-- 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ter essa troca;
+- 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar;
 
-**Estudando:**  
+**Estudando atualmente:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
