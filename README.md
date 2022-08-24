@@ -13,7 +13,7 @@
 
 <br />
 
-Oi, eu sou Alexsandro, aluno de Ciências da Computação, em aprendizado e buscando experiências!
+Oi, eu sou Alexsandro, aluno de Ciências da Computação!
 
 Minha paixão por tecnologia está em sonhar com ideias e torná-las realidade com programação.
 
