@@ -1,32 +1,25 @@
-# Alexsandro-Santos
-Um pouquinho sobre mim!
-
-###  olá
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+### hey there 
+<a href="https://www.instagram.com/alex_santoswz/">
+  <img align="left" alt="Alexsandro's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://twitter.com/Alexjesantoszw">
+  <img align="left" alt="Alexsandro | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/alexsandro-alexjesantos/">
+  <img align="left" alt="Alexsandro's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=AlexsandroSantosSilva/Alexsandro-Santos)
 
 <br />
 
-oi, eu sou [ Abhishek Naidu ](https://abhishknads.me/), um desenvolvedor web autodidata apaixonado e um engenheiro de software freelance da Índia. minha paixão por software está em sonhar com ideias e torná-las realidade com interfaces elegantes. tomo muito cuidado com a experiência, arquitetura e qualidade de código das coisas que construo.
+Oi, eu sou Alexsandro, aluno de Ciências da Computação, em aprendizado e buscando experiências para se tranformar em um DEV.
 
-eu também sou um entusiasta e mantenedor de código aberto. aprendi muito com a comunidade de código aberto e adoro como a colaboração e o compartilhamento de conhecimento aconteceram por meio do código aberto.
+Minha paixão por tecnologia está em sonhar com ideias e tentar torná-las realidade com programação.
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" / >
+    <img align="right" alt="GIF" src="https://github.com/AlexsandroSantosSilva/Alexsandro-Santos/blob/main/code.gif raw=true" width="500" height="320" / >
   
-- 💼 algum trabalho freelance? chegar, [ email ](mailto:abhishek.naidu@cred.club) :)
+- 💼 algum trabalho freelance? chegar, [ email ](alexjesantos@icloud.com) :)
 - 💬 pergunte-me sobre qualquer coisa, ficarei feliz em ajudar;
 
 **idiomas e ferramentas:**  
