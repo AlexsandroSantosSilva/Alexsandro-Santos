@@ -1,4 +1,4 @@
-### Hey there 
+### Bem-vindo! 
 <a href="https://www.instagram.com/alex_santoswz/">
   <img align="left" alt="Alexsandro's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -15,11 +15,11 @@
 
 Oi, eu sou Alexsandro, aluno de Ciências da Computação, em aprendizado e buscando experiências!
 
-Minha paixão por tecnologia está em sonhar com ideias e fazer torná-las em realidade com programação.
+Minha paixão por tecnologia está em sonhar com ideias e torná-las realidade com programação.
 
 <img align="right" alt="GIF" src="https://github.com/AlexsandroSantosSilva/Alexsandro-Santos/blob/main/code.gif?raw=true" width="450" height="320" />
 
-- 💼 Freelancer com intuito em experiência, aguardo seu, [ email ](mailto:alexjesantos@icloud.com) :)
+- 💼 Freelancer com intuito em experiência, contate-me, [ email ](mailto:alexjesantos@icloud.com) :)
 - 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar;
 
 **Estudando atualmente:**  
@@ -32,3 +32,7 @@ Minha paixão por tecnologia está em sonhar com ideias e fazer torná-las em re
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
+
+📈 Minhas estatísticas do Github
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlexsandroSantosSilva&show_icons=true&theme=gotham" alt="Alexsandro" />
